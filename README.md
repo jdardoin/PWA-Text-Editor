@@ -2,7 +2,7 @@
 
 ## Description
 
-A social network application that allows users create, read, update and delete users/friends/thoughts.
+A text editor that will allow users to install from the browser
 
 ## Table of Contents
 
