@@ -11,6 +11,7 @@ A text editor that will allow users to install from the browser
 - [Installation](#Installation)
 - [Technologies Used](#Technologies-Used)
 - [License](#License)
+- [Deployed application](#Deployed-application)
 
 ### User Story
 
@@ -59,3 +60,6 @@ The technolgoies used to build the application is Babel, Express.js, and webpack
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Deployed application
+https://pwa-text-editor-ixy8.onrender.com/
